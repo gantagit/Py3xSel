@@ -13,3 +13,9 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+Q
+!09-Aug-2024/09-Aug-2024-README.md,9\2\9278688948e510ff6e4101f7807d137a56b491cd
+Q
+!07-Aug-2024/07-Aug-2024-README.md,c\6\c6c600debeed5eef980ac8821ee707b9a0f5e0f1
+G
+07-Aug-2024/__init__.py,6\5\657f685de1245ebf37fe8d5c579bfe070d1213c9
