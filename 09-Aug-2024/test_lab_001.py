@@ -9,5 +9,6 @@ def test_vwo_login():
     driver = webdriver.Chrome()
     driver.get(url)
     # assert driver.title == "Login - "
+    print(driver.title)
     assert driver.title == "Login - VWO"
     time.sleep(10)
