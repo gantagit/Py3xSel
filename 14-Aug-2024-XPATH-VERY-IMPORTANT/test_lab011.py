@@ -33,8 +33,22 @@ def test_login_katalon_cura():
     # make_appointment = driver.find_element(By.XPATH, value="//a[contains(text(), 'Make App')]")
 
     # // by using Relative XPATH (XPATH starts-with(text(), 'value' functions - partial match)
-    make_appointment = driver.find_element(By.XPATH, value="//a[starts-with(text(),'Make')]")
-    # XPATH functions ************************************************************************
+    # make_appointment = driver.find_element(By.XPATH, value="//a[starts-with(text(),'Make')]")
+
+
+    # // by using Relative XPATH (XPATH normalize-space((text())= 'value' functions - partial match)
+    # < a  id = "btn-make-appointment" href = "./profile.php#login"  class ="btn btn-dark btn-lg" >Make Appointment< / a >
+    # make_appointment = driver.find_element(By.XPATH, value="//a[normalize-space(text())='Make Appointment']")
+    #  normalize xpath is used to fetch locator based on value when value is having spaces like the above " Make"
+
+    # find web element by using combining the Multiple XPATH's (and & or)
+    # make_appointment = driver.find_element(By.XPATH, value="//a[text()='Make Appointment' and contains(@id, 'btn-make-appointment')]")
+
+    make_appointment = driver.find_element(By.XPATH, value="//a[contains(text(),'Make Appointment') or (@id='btn-make-appointment')]")
+
+
+    # XPATH Axes ************************************************************************
+
 
     make_appointment.click()
 

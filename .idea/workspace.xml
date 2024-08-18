@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d3a946b-c52f-4e01-85ea-ee905bfafa98" name="Changes" comment="14-Aug-2024 &#10;Concepts of Selenium">
-      <change afterPath="$PROJECT_DIR$/14-Aug-2024-XPATH/test_lab011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14-Aug-2024/14-Aug-2024-README.md" beforeDir="false" afterPath="$PROJECT_DIR$/14-Aug-2024-XPATH/14-Aug-2024-README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14-Aug-2024/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/14-Aug-2024-XPATH/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-Aug-2024-XPATH-VERY-IMPORTANT/test_lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/14-Aug-2024-XPATH-VERY-IMPORTANT/test_lab011.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724003412596</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="14-Aug-2024 &#10;Concepts of Selenium">
+      <option name="closed" value="true" />
+      <created>1724007062189</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724007062189</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
