@@ -27,3 +27,9 @@ K
 09-Aug-2024/test_lab_004.py,f\1\f143081c4ec0ac13fcc896097c02c6ee74582bc4
 K
 09-Aug-2024/test_lab_005.py,2\9\29cbf760ac9fdced5bc104363005d9393b8fa0bb
+Q
+!12-Aug-2024/07-Aug-2024-README.md,6\d\6dee740173ad81e3dd10e3c1f6ac48f28df56094
+Q
+!12-Aug-2024/12-Aug-2024-README.md,a\9\a94c6a14f028279fab311e1d8758052b3a2e1441
+G
+12-Aug-2024/__init__.py,e\d\eda75caeec022569d197397af7fab2fb3d0b4b94

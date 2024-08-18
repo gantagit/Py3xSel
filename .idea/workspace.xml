@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d3a946b-c52f-4e01-85ea-ee905bfafa98" name="Changes" comment="09-Aug-2024">
-      <change afterPath="$PROJECT_DIR$/09-Aug-2024/test_lab_002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-Aug-2024/test_lab_003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-Aug-2024/test_lab_004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-Aug-2024/test_lab_005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a4ca0c5206314e01dcf817a250a70b01cbcc0e05" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a4ca0c5206314e01dcf817a250a70b01cbcc0e05" afterDir="false" />
+    <list default="true" id="3d3a946b-c52f-4e01-85ea-ee905bfafa98" name="Changes" comment="09-Aug-2024 &#10;Concepts of Selenium">
+      <change afterPath="$PROJECT_DIR$/12-Aug-2024/12-Aug-2024-README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-Aug-2024/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09-Aug-2024/test_lab_001.py" beforeDir="false" afterPath="$PROJECT_DIR$/09-Aug-2024/test_lab_001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,12 +53,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/gvk97/PycharmProjects/Py3xSel/09-Aug-2024",
+    "last_opened_file_path": "C:/Users/gvk97/PycharmProjects/Py3xSel",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel" />
       <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\09-Aug-2024" />
     </key>
   </component>
@@ -185,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723631317196</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="09-Aug-2024 &#10;Concepts of Selenium">
+      <option name="closed" value="true" />
+      <created>1723916373737</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723916373737</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,7 +206,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="09-Aug-2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="09-Aug-2024" />
+    <MESSAGE value="09-Aug-2024 &#10;Concepts of Selenium" />
+    <option name="LAST_COMMIT_MESSAGE" value="09-Aug-2024 &#10;Concepts of Selenium" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
