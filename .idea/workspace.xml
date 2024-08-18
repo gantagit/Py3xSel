@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d3a946b-c52f-4e01-85ea-ee905bfafa98" name="Changes" comment="14-Aug-2024 &#10;Concepts of Selenium">
+      <change afterPath="$PROJECT_DIR$/14-Aug-2024-XPATH-VERY-IMPORTANT/test_lab012_CSS_SELECTOR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-Aug-2024-Waits/16-Aug-2024-README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-Aug-2024-Waits/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-Aug-2024-Waits/test_lab013_XPATH.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14-Aug-2024-XPATH-VERY-IMPORTANT/test_lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/14-Aug-2024-XPATH-VERY-IMPORTANT/test_lab011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-Aug-2024-XPATH-VERY-IMPORTANT/test_lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/14-Aug-2024-XPATH-VERY-IMPORTANT/test_lab011_XPATH.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,37 +43,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test_lab006.test_book_appointment.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab008.test_login_katalon_cura.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab011.test_login_katalon_cura.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab_002.test_vwo_login.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab_003.test_vwo_login.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab_003.test_youtube.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab_005.test_close_and_quit.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab_005.test_vwo_page_source.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab006.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab008.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab_001.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab_004.py.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/gvk97/PycharmProjects/Py3xSel/14-Aug-2024-XPATH&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_lab006.test_book_appointment.executor": "Run",
+    "Python tests.Python tests for test_lab008.test_login_katalon_cura.executor": "Run",
+    "Python tests.Python tests for test_lab011.test_login_katalon_cura.executor": "Run",
+    "Python tests.Python tests for test_lab012_CSS_SELECTOR.test_login_katalon_cura.executor": "Run",
+    "Python tests.Python tests for test_lab_002.test_vwo_login.executor": "Run",
+    "Python tests.Python tests for test_lab_003.test_vwo_login.executor": "Run",
+    "Python tests.Python tests for test_lab_003.test_youtube.executor": "Run",
+    "Python tests.Python tests for test_lab_005.test_close_and_quit.executor": "Run",
+    "Python tests.Python tests for test_lab_005.test_vwo_page_source.executor": "Run",
+    "Python tests.Python tests in test_lab006.py.executor": "Run",
+    "Python tests.Python tests in test_lab008.py.executor": "Run",
+    "Python tests.Python tests in test_lab_001.py.executor": "Run",
+    "Python tests.Python tests in test_lab_004.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/gvk97/PycharmProjects/Py3xSel",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\14-Aug-2024-XPATH-VERY-IMPORTANT" />
       <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\14-Aug-2024-XPATH" />
       <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel" />
       <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\12-Aug-2024" />
       <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\09-Aug-2024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_lab011.test_login_katalon_cura">
+  <component name="RunManager" selected="Python tests.Python tests for test_lab012_CSS_SELECTOR.test_login_katalon_cura">
     <configuration name="Python tests for test_lab006.test_book_appointment" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py3xSel" />
       <option name="ENV_FILES" value="" />
@@ -113,18 +121,18 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_lab_005.test_close_and_quit" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_lab012_CSS_SELECTOR.test_login_katalon_cura" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py3xSel" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09-Aug-2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14-Aug-2024-XPATH-VERY-IMPORTANT" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab_005.test_close_and_quit&quot;" />
+      <option name="_new_target" value="&quot;test_lab012_CSS_SELECTOR.test_login_katalon_cura&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -145,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_lab012_CSS_SELECTOR.test_login_katalon_cura" />
         <item itemvalue="Python tests.Python tests for test_lab011.test_login_katalon_cura" />
         <item itemvalue="Python tests.Python tests for test_lab008.test_login_katalon_cura" />
         <item itemvalue="Python tests.Python tests in test_lab006.py" />
         <item itemvalue="Python tests.Python tests for test_lab006.test_book_appointment" />
-        <item itemvalue="Python tests.Python tests for test_lab_005.test_close_and_quit" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724007062189</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="14-Aug-2024 &#10;Concepts of Selenium">
+      <option name="closed" value="true" />
+      <created>1724015616598</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724015616598</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

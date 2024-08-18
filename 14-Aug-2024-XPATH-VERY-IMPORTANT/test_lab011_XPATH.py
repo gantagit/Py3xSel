@@ -48,7 +48,13 @@ def test_login_katalon_cura():
 
 
     # XPATH Axes ************************************************************************
+    # https://devhints.io/xpath
 
+    # Ancestor,
+    # Child, Parent
+    # Descendant
+    # following, following-sibling, preceeding-siblings
+    # self
 
     make_appointment.click()
 
