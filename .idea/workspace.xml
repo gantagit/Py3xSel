@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d3a946b-c52f-4e01-85ea-ee905bfafa98" name="Changes" comment="12-Aug-2024 &#10;Concepts of Selenium">
-      <change afterPath="$PROJECT_DIR$/12-Aug-2024/test_lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-Aug-2024/test_lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-Aug-2024/test_lab008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-Aug-2024/test_lab009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-Aug-2024/test_lab010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-Aug-2024_Home Task/Home_Task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-Aug-2024_Home Task/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-Aug-2024/14-Aug-2024-README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-Aug-2024/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-Aug-2024/14-Aug-2024-README.md" beforeDir="false" afterPath="$PROJECT_DIR$/14-Aug-2024/14-Aug-2024-README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723950165426</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="12-Aug-2024 &#10;Concepts of Selenium">
+      <option name="closed" value="true" />
+      <created>1723969309363</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723969309363</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
