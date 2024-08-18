@@ -33,3 +33,27 @@ Q
 !12-Aug-2024/12-Aug-2024-README.md,a\9\a94c6a14f028279fab311e1d8758052b3a2e1441
 G
 12-Aug-2024/__init__.py,e\d\eda75caeec022569d197397af7fab2fb3d0b4b94
+J
+12-Aug-2024/test_lab007.py,e\7\e7aa8a1bd51622336596e06cdea2e6b98f5cc082
+J
+12-Aug-2024/test_lab006.py,c\b\cb28f2f6842b4aa6e5a8b8c5af1fc84a04133467
+J
+12-Aug-2024/test_lab008.py,3\5\3557e1c50f8a11b58a6859ebd10cabd31afab088
+G
+12-Aug-2024/conftest.py,e\7\e7ab8830eb64c2d80b40fd735908e09c08cc9c33
+J
+12-Aug-2024/test_lab009.py,8\e\8efd0ddfbbc46c41b253969bf5e63e07eb22eff7
+J
+12-Aug-2024/test_lab010.py,a\9\a97f9d9a2bf8c9e468981f779d9459a462f30e03
+R
+"12-Aug-2024_Home Task/Home_Task.md,a\b\ab8b8cb997b1cef1d0aad40cc23ba0db0b820569
+Q
+!14-Aug-2024/09-Aug-2024-README.md,a\f\af846956c38d0ca3e6076c031dac70039c4dd743
+K
+14-Aug-2024/test_lab_001.py,e\5\e582fd4621f64c0933e1a4b0e9313950eb574a3a
+Q
+!14-Aug-2024/14-Aug-2024-README.md,e\f\eff89c4298e5bbf3572d113c67983c139090d39b
+Q
+!12-Aug-2024_Home Task/__init__.py,e\e\ee5f981ce7782f4ce0e61440a02df7ced9f29a4a
+G
+14-Aug-2024/__init__.py,5\9\59c33cf6b15721b2b528e74537c779ed8aedd384
