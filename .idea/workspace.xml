@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d3a946b-c52f-4e01-85ea-ee905bfafa98" name="Changes" comment="14-Aug-2024 &#10;Concepts of Selenium">
+    <list default="true" id="3d3a946b-c52f-4e01-85ea-ee905bfafa98" name="Changes" comment="16-Aug-2024 &#10;Concepts of Selenium">
+      <change afterPath="$PROJECT_DIR$/16-Aug-2024-Waits/test_lab014_WAIT.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/16-Aug-2024-Waits/16-Aug-2024-README.md" beforeDir="false" afterPath="$PROJECT_DIR$/16-Aug-2024-Waits/16-Aug-2024-README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-Aug-2024-Waits/test_lab013_XPATH.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-Aug-2024-Waits/test_lab013_WAIT.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,26 +52,28 @@
     "Python tests.Python tests for test_lab_005.test_vwo_page_source.executor": "Run",
     "Python tests.Python tests in test_lab006.py.executor": "Run",
     "Python tests.Python tests in test_lab008.py.executor": "Run",
+    "Python tests.Python tests in test_lab013_WAIT.py.executor": "Run",
+    "Python tests.Python tests in test_lab014_WAIT.py.executor": "Run",
     "Python tests.Python tests in test_lab_001.py.executor": "Run",
     "Python tests.Python tests in test_lab_004.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/gvk97/PycharmProjects/Py3xSel",
+    "last_opened_file_path": "C:/Users/gvk97/PycharmProjects/Py3xSel/16-Aug-2024-Waits",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\16-Aug-2024-Waits" />
       <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel" />
       <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\14-Aug-2024-XPATH-VERY-IMPORTANT" />
       <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\14-Aug-2024-XPATH" />
       <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\12-Aug-2024" />
-      <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\09-Aug-2024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_lab012_CSS_SELECTOR.test_login_katalon_cura">
+  <component name="RunManager">
     <configuration name="Python tests for test_lab006.test_book_appointment" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py3xSel" />
       <option name="ENV_FILES" value="" />
@@ -252,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724021950179</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="16-Aug-2024 &#10;Concepts of Selenium">
+      <option name="closed" value="true" />
+      <created>1724082729791</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724082729791</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,7 +283,8 @@
     <MESSAGE value="09-Aug-2024 &#10;Concepts of Selenium" />
     <MESSAGE value="12-Aug-2024 &#10;Concepts of Selenium" />
     <MESSAGE value="14-Aug-2024 &#10;Concepts of Selenium" />
-    <option name="LAST_COMMIT_MESSAGE" value="14-Aug-2024 &#10;Concepts of Selenium" />
+    <MESSAGE value="16-Aug-2024 &#10;Concepts of Selenium" />
+    <option name="LAST_COMMIT_MESSAGE" value="16-Aug-2024 &#10;Concepts of Selenium" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
