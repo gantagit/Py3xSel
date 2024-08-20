@@ -7,4 +7,6 @@
 
 ![image](https://github.com/user-attachments/assets/c79aa35a-9b20-4dec-9f93-91cb3a99afac)
 
+Thread.Sleep() in Java
+Time.Sleep() in Python
     
