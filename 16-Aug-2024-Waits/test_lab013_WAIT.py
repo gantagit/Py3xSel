@@ -31,6 +31,7 @@ def test_login_katalon_cura():
     Wait(driver=driver, timeout=5).until(EC.visibility_of_element_located((By.XPATH, "//p[@class='lead text-danger']")))
 
     error_messages_web_element = driver.find_element(By.XPATH, "//p[@class='lead text-danger']")
+    print(error_messages_web_element.text)
     assert error_messages_web_element.text == error_text
 
     time.sleep(10)
