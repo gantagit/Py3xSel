@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d3a946b-c52f-4e01-85ea-ee905bfafa98" name="Changes" comment="16-Aug-2024 &#10;Concepts of Selenium">
+      <change afterPath="$PROJECT_DIR$/16_Aug_2024_Home_task/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Aug_2024_Home_task/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Aug_2024_Home_task/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16-Aug-2024-Waits/test_lab013_WAIT.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-Aug-2024-Waits/test_lab013_WAIT.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16-Aug-2024-Waits/test_lab014_WAIT.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-Aug-2024-Waits/test_lab014_WAIT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-Aug-2024-Waits/test_lab015_SELECT.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-Aug-2024-Waits/test_lab015_SELECT.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,31 +40,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test_lab006.test_book_appointment.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab008.test_login_katalon_cura.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab011.test_login_katalon_cura.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab012_CSS_SELECTOR.test_login_katalon_cura.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab_002.test_vwo_login.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab_003.test_vwo_login.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab_003.test_youtube.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab_005.test_close_and_quit.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab_005.test_vwo_page_source.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab006.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab008.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab013_WAIT.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab014_WAIT.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab_001.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab_004.py.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/gvk97/PycharmProjects/Py3xSel/16-Aug-2024-Waits&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_lab006.test_book_appointment.executor": "Run",
+    "Python tests.Python tests for test_lab008.test_login_katalon_cura.executor": "Run",
+    "Python tests.Python tests for test_lab011.test_login_katalon_cura.executor": "Run",
+    "Python tests.Python tests for test_lab012_CSS_SELECTOR.test_login_katalon_cura.executor": "Run",
+    "Python tests.Python tests for test_lab_002.test_vwo_login.executor": "Run",
+    "Python tests.Python tests for test_lab_003.test_vwo_login.executor": "Run",
+    "Python tests.Python tests for test_lab_003.test_youtube.executor": "Run",
+    "Python tests.Python tests for test_lab_005.test_close_and_quit.executor": "Run",
+    "Python tests.Python tests for test_lab_005.test_vwo_page_source.executor": "Run",
+    "Python tests.Python tests in test_lab006.py.executor": "Run",
+    "Python tests.Python tests in test_lab008.py.executor": "Run",
+    "Python tests.Python tests in test_lab013_WAIT.py.executor": "Run",
+    "Python tests.Python tests in test_lab014_WAIT.py.executor": "Run",
+    "Python tests.Python tests in test_lab015_SELECT.py.executor": "Run",
+    "Python tests.Python tests in test_lab_001.py.executor": "Run",
+    "Python tests.Python tests in test_lab_004.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/gvk97/PycharmProjects/Py3xSel/16-Aug-2024-Waits",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\16-Aug-2024-Waits" />
@@ -271,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724115761390</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="16-Aug-2024 &#10;Concepts of Selenium">
+      <option name="closed" value="true" />
+      <created>1724252925846</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1724252925846</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
