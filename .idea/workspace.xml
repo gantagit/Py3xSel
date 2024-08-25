@@ -5,11 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d3a946b-c52f-4e01-85ea-ee905bfafa98" name="Changes" comment="16-Aug-2024 &#10;Concepts of Selenium">
-      <change afterPath="$PROJECT_DIR$/16_Aug_2024_Home_task/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16_Aug_2024_Home_task/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16_Aug_2024_Home_task/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-Aug-2024-Part_2/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-Aug-2024-Part_2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-Aug-2024-Part_2/test_flipkart_svg_xpath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-Aug-2024-Part_2/test_india_map_svg_xpath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-Aug-2024-Part_3/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-Aug-2024-Part_3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-Aug-2024-Part_3/test_aqi_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-Aug-2024-Part_3/test_qa_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-Aug-2024-Part_4/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-Aug-2024-Part_4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-Aug-2024-Part_4/test_data.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-Aug-2024-Part_4/test_data_driven_Practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/04c393f6-37ea-42f7-a5bd-45eb9723d41f-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/11c00284-e595-499a-a7a6-be352a9e02d4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/167d8fd0-0ec5-44da-a7bb-45a5dbc69c99-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/28ac1418-a164-4f8c-843f-e0127c43e139-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/3f99fddf-7c36-4642-a007-e741908e050d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/47b25ef2-7d7f-411d-a32c-9a4083130290-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/50fa81fb-ca80-4652-a105-ba71dbab132e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/544b2eab-2e3f-42e4-b5f1-c5924c424061-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/8a155c0b-7365-4c25-9ce2-21571b7c25f0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/9b1f1218-d66a-4c4b-b304-5ac69559927b-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/9d91d43f-995c-4f1a-adf0-aa463d53a850-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/b5e49524-7935-4f1e-8185-4b3f58ae6bc1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/b8e7cf67-6289-4a30-b5b5-2b981e9b2089-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/bc8b6c7a-7741-4eca-a17e-9283b4096a07-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/c9074fbe-eb58-42c6-8585-506c4832346f-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/cefcb13f-10fd-4147-83bc-b74d6586efce-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/d55f1f8d-837a-49d1-8817-aaa6b9187b16-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/e40d10cf-3875-433b-9979-b21a46ba4895-result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16-Aug-2024-Waits/test_lab015_SELECT.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-Aug-2024-Waits/test_lab015_SELECT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-Aug-2024-Waits/16-Aug-2024-README.md" beforeDir="false" afterPath="$PROJECT_DIR$/16-Aug-2024-Part_1_Waits/16-Aug-2024-README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-Aug-2024-Waits/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-Aug-2024-Part_1_Waits/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-Aug-2024-Waits/test_lab013_WAIT.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-Aug-2024-Part_1_Waits/test_lab013_WAIT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-Aug-2024-Waits/test_lab014_WAIT.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-Aug-2024-Part_1_Waits/test_lab014_WAIT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-Aug-2024-Waits/test_lab015_SELECT.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-Aug-2024-Part_1_Waits/test_lab015_SELECT.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +73,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python tests.Python tests for test_lab006.test_book_appointment.executor": "Run",
     "Python tests.Python tests for test_lab008.test_login_katalon_cura.executor": "Run",
     "Python tests.Python tests for test_lab011.test_login_katalon_cura.executor": "Run",
@@ -51,6 +83,10 @@
     "Python tests.Python tests for test_lab_003.test_youtube.executor": "Run",
     "Python tests.Python tests for test_lab_005.test_close_and_quit.executor": "Run",
     "Python tests.Python tests for test_lab_005.test_vwo_page_source.executor": "Run",
+    "Python tests.Python tests in test_aqi_index.py.executor": "Run",
+    "Python tests.Python tests in test_data_driven_Practice.py.executor": "Run",
+    "Python tests.Python tests in test_flipkart_svg_xpath.py.executor": "Run",
+    "Python tests.Python tests in test_india_map_svg_xpath.py.executor": "Run",
     "Python tests.Python tests in test_lab006.py.executor": "Run",
     "Python tests.Python tests in test_lab008.py.executor": "Run",
     "Python tests.Python tests in test_lab013_WAIT.py.executor": "Run",
@@ -58,21 +94,22 @@
     "Python tests.Python tests in test_lab015_SELECT.py.executor": "Run",
     "Python tests.Python tests in test_lab_001.py.executor": "Run",
     "Python tests.Python tests in test_lab_004.py.executor": "Run",
+    "Python tests.Python tests in test_relative_locators.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/gvk97/PycharmProjects/Py3xSel/16-Aug-2024-Waits",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "last_opened_file_path": "C:/Users/gvk97/PycharmProjects/Py3xSel",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\16-Aug-2024-Waits" />
       <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel" />
+      <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\16-Aug-2024-Part_3" />
+      <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\16-Aug-2024-Part_2" />
+      <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\16-Aug-2024-Waits" />
       <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\14-Aug-2024-XPATH-VERY-IMPORTANT" />
-      <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\14-Aug-2024-XPATH" />
-      <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\12-Aug-2024" />
     </key>
   </component>
   <component name="RunManager">
@@ -282,7 +319,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724252925846</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="16-Aug-2024 &#10;Concepts of Selenium">
+      <option name="closed" value="true" />
+      <created>1724256625349</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1724256625349</updated>
+    </task>
+    <task id="LOCAL-00016" summary="16-Aug-2024 &#10;Concepts of Selenium">
+      <option name="closed" value="true" />
+      <created>1724256770184</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1724256770184</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,6 +350,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="09-Aug-2024" />
     <MESSAGE value="09-Aug-2024 &#10;Concepts of Selenium" />
     <MESSAGE value="12-Aug-2024 &#10;Concepts of Selenium" />
