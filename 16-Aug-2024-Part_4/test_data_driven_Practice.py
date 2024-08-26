@@ -62,6 +62,7 @@ def vwo_login(username1, password1):
     options = Options()
     # Add arguments to disable notifications and run in headless mode
     options.add_argument("--disable-notifications")
+    # options.page_load_strategy = 'normal'
     # options.add_argument("--headless")
     # options.add_argument("--incognito")
 

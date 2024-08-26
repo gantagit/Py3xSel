@@ -5,7 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d3a946b-c52f-4e01-85ea-ee905bfafa98" name="Changes" comment="16-Aug-2024 &#10;Concepts of Selenium">
+      <change afterPath="$PROJECT_DIR$/19_Aug-2024-SEL-EXCEP/test_lab016_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Aug-2024-SEL-EXCEP/test_lab017_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Aug-2024-SEL-EXCEP/test_lab018_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Aug-2024-SEL-EXCEP/test_lab019_alerts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Aug-2024-SEL-EXCEP/test_lab020_alerts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Aug-2024-SEL-EXCEP/test_lab021_checkbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/03bab29a-e084-43c5-a0c4-d20d0dba1b94-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/0ef92f10-606a-4135-8a87-4e0530faff8d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/0fa5e85e-390c-4d65-83ad-1334ca9cd17d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/1b85863e-3279-45d9-8a76-728c8710acbe-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/5cd69441-dc75-45e8-ad3d-54e1f301488a-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/63c6be83-dfb2-4cbf-a354-3bb3258728d8-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/6608b22c-d78a-451f-a43b-b8de0622ffdd-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/6b0f6416-281c-489e-8663-ca2fbc3c2687-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/76475f81-7305-4e73-af18-822191b97143-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/7f9234ee-aef1-41cb-a568-1a3be41bb330-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/93cc2a11-1332-4e6d-994d-970ec30b146d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/9620e914-12be-4580-a509-46c3d5a07e34-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/b3400d65-c174-485e-a367-02362330c069-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/c57963b8-9912-48b8-8154-7db17381ec5c-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/c6958e8d-1792-4214-9ffe-a5f246aadc9c-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/c6c212b4-a572-46c2-bba9-7800673bb8d4-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/ecdd35ec-2dfe-4de8-a3f3-67afad11d37e-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_results/ee1f5648-0767-4d1f-8444-b84987bafef0-result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-Aug-2024-Part_4/test_data_driven_Practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-Aug-2024-Part_4/test_data_driven_Practice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,48 +61,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests for test_lab006.test_book_appointment.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab008.test_login_katalon_cura.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab011.test_login_katalon_cura.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab012_CSS_SELECTOR.test_login_katalon_cura.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab_002.test_vwo_login.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab_003.test_vwo_login.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab_003.test_youtube.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab_005.test_close_and_quit.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_lab_005.test_vwo_page_source.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_aqi_index.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_data_driven_Practice.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_flipkart_svg_xpath.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_india_map_svg_xpath.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab006.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab008.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab013_WAIT.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab014_WAIT.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab015_SELECT.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab_001.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab_004.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_relative_locators.py.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/gvk97/PycharmProjects/Py3xSel&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Python tests for test_lab006.test_book_appointment.executor": "Run",
+    "Python tests.Python tests for test_lab008.test_login_katalon_cura.executor": "Run",
+    "Python tests.Python tests for test_lab011.test_login_katalon_cura.executor": "Run",
+    "Python tests.Python tests for test_lab012_CSS_SELECTOR.test_login_katalon_cura.executor": "Run",
+    "Python tests.Python tests for test_lab019_alerts.TestAlerts.test_qa_tc1.executor": "Run",
+    "Python tests.Python tests for test_lab019_alerts.TestAlerts.test_qa_tc2.executor": "Run",
+    "Python tests.Python tests for test_lab020_alerts.TestAlerts.test_qa_tc1.executor": "Run",
+    "Python tests.Python tests for test_lab_002.test_vwo_login.executor": "Run",
+    "Python tests.Python tests for test_lab_003.test_vwo_login.executor": "Run",
+    "Python tests.Python tests for test_lab_003.test_youtube.executor": "Run",
+    "Python tests.Python tests for test_lab_005.test_close_and_quit.executor": "Run",
+    "Python tests.Python tests for test_lab_005.test_vwo_page_source.executor": "Run",
+    "Python tests.Python tests in test_aqi_index.py.executor": "Run",
+    "Python tests.Python tests in test_data_driven_Practice.py.executor": "Run",
+    "Python tests.Python tests in test_flipkart_svg_xpath.py.executor": "Run",
+    "Python tests.Python tests in test_india_map_svg_xpath.py.executor": "Run",
+    "Python tests.Python tests in test_lab006.py.executor": "Run",
+    "Python tests.Python tests in test_lab008.py.executor": "Run",
+    "Python tests.Python tests in test_lab013_WAIT.py.executor": "Run",
+    "Python tests.Python tests in test_lab014_WAIT.py.executor": "Run",
+    "Python tests.Python tests in test_lab015_SELECT.py.executor": "Run",
+    "Python tests.Python tests in test_lab016_exceptions.py.executor": "Run",
+    "Python tests.Python tests in test_lab017_exceptions.py.executor": "Run",
+    "Python tests.Python tests in test_lab018_exceptions.py.executor": "Run",
+    "Python tests.Python tests in test_lab019_alerts.py.executor": "Run",
+    "Python tests.Python tests in test_lab020_alerts.py.executor": "Run",
+    "Python tests.Python tests in test_lab021_checkbox.py.executor": "Run",
+    "Python tests.Python tests in test_lab_001.py.executor": "Run",
+    "Python tests.Python tests in test_lab_004.py.executor": "Run",
+    "Python tests.Python tests in test_relative_locators.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/gvk97/PycharmProjects/Py3xSel/19_Aug-2024-SEL-EXCEP",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\19_Aug-2024-SEL-EXCEP" />
+      <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\K6-Demo" />
       <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel" />
       <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\16-Aug-2024-Part_3" />
       <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\16-Aug-2024-Part_2" />
-      <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\16-Aug-2024-Waits" />
-      <recent name="C:\Users\gvk97\PycharmProjects\Py3xSel\14-Aug-2024-XPATH-VERY-IMPORTANT" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_lab006.test_book_appointment">
+  <component name="RunManager">
     <configuration name="Python tests for test_lab006.test_book_appointment" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py3xSel" />
       <option name="ENV_FILES" value="" />
@@ -90,36 +124,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_lab006.test_book_appointment&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_lab008.test_login_katalon_cura" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Py3xSel" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12-Aug-2024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab008.test_login_katalon_cura&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_lab011.test_login_katalon_cura" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Py3xSel" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14-Aug-2024-XPATH-VERY-IMPORTANT" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab011.test_login_katalon_cura&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -138,28 +142,58 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_lab006.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_lab019_alerts.TestAlerts.test_qa_tc1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py3xSel" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12-Aug-2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19_Aug-2024-SEL-EXCEP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/12-Aug-2024/test_lab006.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_lab019_alerts.TestAlerts.test_qa_tc1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_lab019_alerts.TestAlerts.test_qa_tc2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py3xSel" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19_Aug-2024-SEL-EXCEP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab019_alerts.TestAlerts.test_qa_tc2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_lab020_alerts.TestAlerts.test_qa_tc1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py3xSel" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19_Aug-2024-SEL-EXCEP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab020_alerts.TestAlerts.test_qa_tc1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_lab020_alerts.TestAlerts.test_qa_tc1" />
+        <item itemvalue="Python tests.Python tests for test_lab019_alerts.TestAlerts.test_qa_tc1" />
+        <item itemvalue="Python tests.Python tests for test_lab019_alerts.TestAlerts.test_qa_tc2" />
         <item itemvalue="Python tests.Python tests for test_lab006.test_book_appointment" />
         <item itemvalue="Python tests.Python tests for test_lab012_CSS_SELECTOR.test_login_katalon_cura" />
-        <item itemvalue="Python tests.Python tests for test_lab011.test_login_katalon_cura" />
-        <item itemvalue="Python tests.Python tests for test_lab008.test_login_katalon_cura" />
-        <item itemvalue="Python tests.Python tests in test_lab006.py" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +342,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724623587989</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="16-Aug-2024 &#10;Concepts of Selenium">
+      <option name="closed" value="true" />
+      <created>1724626097468</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1724626097468</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
